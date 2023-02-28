@@ -1,7 +1,7 @@
 # denon_controle_remoto_ip
 Script em Python para controlar o recever Denon por IP
 
-Este script foi testado com receiver Denon AVR-4523CI e pode não ser compatível com outros receptores
+Este script foi testado com receiver Denon AVR-4520CI e pode não ser compatível com outros receptores
 
 Outros testes: AVR-S710W
 
