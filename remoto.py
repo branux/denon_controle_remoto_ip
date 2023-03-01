@@ -404,7 +404,7 @@ parser.add_argument(
 parser.add_argument(
     '--version', '-v',
     action='version',
-    version='%(prog)s v0.1beta Copyright (C) 2019 Barry Van Deerlin')
+    version='%(prog)s v0.1 Copyright (C) 2023 Mauricio Alves')
 
 # Adicionar argumento de endereço IP                                                {{{2
 parser.add_argument(
